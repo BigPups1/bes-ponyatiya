@@ -5,4 +5,5 @@ It's an classical like super Mario 2D Character Controller for the Godot Game En
 It runs out of the box with the AnimationController or the Animated Sprite Node. 
 It shows out of the box Screen Controls UI Elements on your mobile device (tested on android and iOS).
 
-for more information check out: http://www.youtube.com/kinematicbody
+for more information check out: http://www.youtube.com/kinematicbodifv
+if you like your mother, pay me.
